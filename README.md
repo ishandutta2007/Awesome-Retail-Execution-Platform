@@ -44,45 +44,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[Repsly](https://www.repsly.com/)**  
-
-  Retail execution and field team management platform popular with CPG brands for merchandising, shelf visibility, store visits, and image-based insights.
-
-
-
-- **[Trax Retail](https://traxretail.com/)**  
-
-  Leading AI-powered retail execution and shelf intelligence platform using computer vision for planogram compliance, share-of-shelf, and out-of-stock detection.
-
-
-
-- **[GoSpotCheck by FORM / FORM MarketX](https://www.form.com/)**  
-
-  Field execution and audit platform with strong mobile checklists, photo reporting, task management, and image recognition capabilities.
-
-
-
-- **[Pepperi](https://www.pepperi.com/)**  
-
-  Combined B2B commerce and retail execution platform supporting field sales, ordering, and in-store execution workflows.
-
-
-
-- **[StayinFront, VisitBasis, YOOBIC](https://www.stayinfront.com/)**  
-
-  Established and modern retail execution / field force solutions covering merchandising, audits, and mobile workforce management.
-
-
-
-- **[ParallelDots, Field Agent, BeMyEye, Teamcore, BeatRoute](https://www.paralleldots.com/)**  
-
-  Platforms and networks offering image recognition, crowdsourced or field-based retail audits, and execution visibility.
-
-
-
-- **[Other retail execution & field force platforms](https://www.repsly.com/)**  
-
-  Additional commercial tools for route-to-market, DSD, and in-store compliance programs.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[VisitBasis](https://www.visitbasis.com/)** | Mobile retail audit and merchandising software for store visits, GPS check-ins, custom inspection forms, and photo reporting. | $15/user/month ($12/user/month billed annually; volume discounts available for 50+ users) | **Free forever** for up to 10 users (includes standard mobile forms, photo capture, PDF/Excel reports, and 2-month data retention); 14-day free trial of Premium with unlimited users. |
+| **[Field Agent](https://www.fieldagent.net/)** | On-demand crowdsourced retail auditing marketplace utilizing a nationwide shopper network for shelf audits, display verification, and price checks. | $19.00 per audit response (pay-as-you-go self-serve marketplace; no recurring platform subscription or setup fees) | **Free forever** account registration (unlimited access to marketplace portal, survey builder, and sample audit data; audits charged per response). |
+| **[BeatRoute](https://beatroute.io/)** | Goal-driven sales force automation (SFA) and retail execution CRM for route planning, order collection, and merchandising compliance. | $8.50/user/month (~₹399/user/month for entry field reps; Startup Program available for teams under 50 reps) | 14-day free trial / guided proof-of-concept (limited to 10 field reps and 1 supervisor with core visit tracking and order taking; no permanent free plan). |
+| **[Repsly](https://www.repsly.com/)** | Retail execution and field team management platform for CPG brands to track merchandising compliance, store visits, and shelf visibility. | $29/user/month (Essentials/Organization tier billed annually; Visibility tier starts at ~$49/user/month) | 14-day free trial (sales-assisted pilot POC with full access to mobile forms, visit scheduling, and manager dashboard for pilot reps; no permanent free plan). |
+| **[FORM MarketX](https://www.form.com/)** *(formerly GoSpotCheck)* | Field execution, mobile audit, and image recognition platform for digital checklists, shelf compliance, and photo reporting. | $25/user/month (billed annually with a 20-user minimum subscription, starting at $500/month) | 14-day proof-of-concept (POC) trial (scoped to up to 20 pilot users with full digital checklist and photo audit access; no permanent free plan). |
+| **[YOOBIC](https://yoobic.com/)** | Frontline employee experience and retail execution platform covering mobile store audits, digital task management, and visual merchandising. | $4/user/month (entry frontline seat tier; deployed for minimum scale of ~100 locations, typically ~$5,000/year) | 14-day guided proof-of-concept (POC) trial (configured for up to 2 retail locations and 10 frontline employees; no permanent free plan). |
+| **[StayinFront](https://www.stayinfront.com/)** | Field force automation and retail optimization platform (TouchCG) for CPG field sales reps, shelf auditing, and van sales. | $250/month flat baseline (or ~$60/user/month on standard TouchCG field rep licensing with annual contract) | 30-day proof-of-concept / guided pilot program upon sales qualification (restricted to pilot sales territories with core audit workflows; no permanent free plan). |
+| **[Pepperi](https://www.pepperi.com/)** | Unified B2B commerce and retail execution suite combining mobile order taking, merchandising, route accounting, and in-store audits. | $500/month (Pro plan baseline; Corporate tier starts at $1,500/month for advanced trade promotions and ERP integration) | 14-day free trial (evaluatable via mobile app demo sandbox with sample catalog data for up to 5 users; no permanent free plan). |
+| **[BeMyEye](https://www.bemyeye.com/)** | Crowdsourced European retail execution and shelf compliance platform combining crowdsourced on-demand audits and mobile rep apps. | €500/month (entry subscription tier for crowd-audit campaigns; per-mission rates average €5–€10 per audited location) | 14-day sales-guided pilot / POC program (scoped to a single test city/region with a capped bundle of 20 trial store audits; no permanent free plan). |
+| **[ParallelDots ShelfWatch](https://www.paralleldots.com/shelfwatch)** | AI-based computer vision solution for shelf auditing, SKU-level share of shelf, eye-level placement, and competitor POSM tracking. | $1,000/month (pilot tier / baseline enterprise contract for image processing clusters; text AI APIs start at $2/1,000 hits) | 30-day guided pilot evaluation (covers custom model training on up to 50 SKUs across a benchmark set of sample shelf photos; no permanent free plan). |
+| **[Teamcore](https://teamcore.com/)** | AI-driven smart retail execution platform that transforms POS and store inventory data into prioritized actionable tasks for field teams. | $1,200/month (base enterprise subscription / approximately $15–$25 per store point-of-sale per month for entry retail chains) | 30-day proof-of-concept (POC) pilot (deployed with initial data ingestion for up to 15 retail store points of sale; no permanent free plan). |
+| **[Trax Retail](https://traxretail.com/)** | Computer-vision shelf intelligence & retail execution engine providing automated planogram compliance, share-of-shelf analysis, and out-of-stock alerts. | $15,000/year (~$1,250/month baseline pilot package / approx. $50–$100 per store/month across pilot store cohorts) | 30-day guided Proof of Concept (POC) pilot (scoped to a dedicated test store cluster of up to 50 locations and specific SKU category model training; no permanent free plan). |
 
 
 
