@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Retail-Execution-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Retail-Execution-Platform?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Retail-Execution-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Retail-Execution-Platform?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Retail-Execution-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Retail-Execution-Platform?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Retail-Execution-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Retail-Execution-Platform?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Retail-Execution-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Retail-Execution-Platform?style=flat-square&color=green" alt="License" /></a>
@@ -73,46 +73,46 @@ Open-source retail execution platforms are rare as full turnkey products because
 
 *Repositories are sorted descending by GitHub Star Count.*
 
-1. **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+1. **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    Comprehensive open-source business suite with field service, retail POS, barcode scanning, inventory control, and customizable store task workflows.
 
-2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    Full-featured open-source ERP offering inventory tracking, retail POS, territory management, and customer visit logging adaptable for retail field operations.
 
-3. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
+3. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
    Modular headless commerce engine with extensible Node.js architecture for powering custom B2B mobile field order taking, trade promotions, and catalog sync.
 
-4. **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
+4. **[Saleor](https://github.com/saleor/saleor)** [![GitHub_Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
    High-performance GraphQL-native headless commerce platform capable of supporting multi-channel retail ordering and centralized distributor inventories.
 
-5. **[Vendure](https://github.com/vendure-ecommerce/vendure)** [![GitHub stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers)  
+5. **[Vendure](https://github.com/vendure-ecommerce/vendure)** [![GitHub_Stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers)  
    Headless TypeScript commerce framework built on NestJS & GraphQL, well-suited for engineering custom field rep replenishment apps and store inventories.
 
-6. **[OSRM (Open Source Routing Machine)](https://github.com/Project-OSRM/osrm-backend)** [![GitHub stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social&color=white)](https://github.com/Project-OSRM/osrm-backend/stargazers)  
+6. **[OSRM (Open Source Routing Machine)](https://github.com/Project-OSRM/osrm-backend)** [![GitHub_Stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social&color=white)](https://github.com/Project-OSRM/osrm-backend/stargazers)  
    High-performance C++ routing engine for calculating shortest paths, travel durations, and distance matrices to optimize daily field rep store visit routes.
 
-7. **[metasfresh](https://github.com/metasfresh/metasfresh)** [![GitHub stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
+7. **[metasfresh](https://github.com/metasfresh/metasfresh)** [![GitHub_Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
    Fast open-source ERP platform built for wholesale distribution, order processing, and supply chain execution with field sales capabilities.
 
-8. **[Form.io](https://github.com/formio/formio)** [![GitHub stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers)  
+8. **[Form.io](https://github.com/formio/formio)** [![GitHub_Stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers)  
    Enterprise form builder and JSON-powered data management platform for generating complex retail audit forms, merchandising surveys, and inspection checklists.
 
-9. **[VROOM](https://github.com/VROOM-Project/vroom)** [![GitHub stars](https://img.shields.io/github/stars/VROOM-Project/vroom?style=social&color=white)](https://github.com/VROOM-Project/vroom/stargazers)  
+9. **[VROOM](https://github.com/VROOM-Project/vroom)** [![GitHub_Stars](https://img.shields.io/github/stars/VROOM-Project/vroom?style=social&color=white)](https://github.com/VROOM-Project/vroom/stargazers)  
    Open-source vehicle and field force routing optimization engine that solves Vehicle Routing Problems (VRP) to sequence daily store audits efficiently.
 
-10. **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
+10. **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
     Battle-tested enterprise automation suite featuring warehouse operations, order fulfillment, and retail point-of-sale integration.
 
-11. **[SKU110K](https://github.com/eg4000/SKU110K_CVPR19)** [![GitHub stars](https://img.shields.io/github/stars/eg4000/SKU110K_CVPR19?style=social&color=white)](https://github.com/eg4000/SKU110K_CVPR19/stargazers)  
+11. **[SKU110K](https://github.com/eg4000/SKU110K_CVPR19)** [![GitHub_Stars](https://img.shields.io/github/stars/eg4000/SKU110K_CVPR19?style=social&color=white)](https://github.com/eg4000/SKU110K_CVPR19/stargazers)  
     Pioneering CVPR benchmark dataset and deep-learning object detection models specifically engineered for detecting densely packed products on supermarket shelves.
 
-12. **[ODK Collect](https://github.com/getodk/collect)** [![GitHub stars](https://img.shields.io/github/stars/getodk/collect?style=social&color=white)](https://github.com/getodk/collect/stargazers)  
+12. **[ODK Collect](https://github.com/getodk/collect)** [![GitHub_Stars](https://img.shields.io/github/stars/getodk/collect?style=social&color=white)](https://github.com/getodk/collect/stargazers)  
     Standard open-source offline-first Android field data collection tool supporting GPS geotagging, barcodes, audits, photo capture, and complex skip logic.
 
-13. **[OpenRetail](https://github.com/rudi-krsoftware/open-retail)** [![GitHub stars](https://img.shields.io/github/stars/rudi-krsoftware/open-retail?style=social&color=white)](https://github.com/rudi-krsoftware/open-retail/stargazers)  
+13. **[OpenRetail](https://github.com/rudi-krsoftware/open-retail)** [![GitHub_Stars](https://img.shields.io/github/stars/rudi-krsoftware/open-retail?style=social&color=white)](https://github.com/rudi-krsoftware/open-retail/stargazers)  
     Lightweight open-source retail and POS management software engineered for small-to-medium retail store operations.
 
-14. **[KoboToolbox KPI](https://github.com/kobotoolbox/kpi)** [![GitHub stars](https://img.shields.io/github/stars/kobotoolbox/kpi?style=social&color=white)](https://github.com/kobotoolbox/kpi/stargazers)  
+14. **[KoboToolbox KPI](https://github.com/kobotoolbox/kpi)** [![GitHub_Stars](https://img.shields.io/github/stars/kobotoolbox/kpi?style=social&color=white)](https://github.com/kobotoolbox/kpi/stargazers)  
     Web application for authoring, publishing, and managing field inspection forms, mobile audit questionnaires, and field research surveys.
 
 15. **[SaleFlex](https://saleflex.dev/)**  
@@ -142,7 +142,7 @@ When engineering a custom internal retail execution stack, teams frequently comb
 1. 🍴 Fork the repository.
 2. 📝 Add or edit entries in `README.md` keeping formatting factual, objective, and linked to official websites.
 3. 📦 For SaaS entries, provide specific starting tier prices, accurate company size metrics, and precise free tier / trial terms.
-4. ⭐ For open-source repos, include the star badge linked to the stargazers page and ensure proper star-count descending order.
+4. ⭐ For open-source repos, include the Stars_Badge linked to the stargazers page and ensure proper star-count descending order.
 5. 🚀 Submit a Pull Request (PR) with a brief description of the addition.
 
 ---
